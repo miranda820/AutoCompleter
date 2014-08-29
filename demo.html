@@ -1,0 +1,152 @@
+<!doctype html >
+<html>
+	<title></title>
+	<head>
+		<link rel="stylesheet" type="text/css" href="public/css/main.css">
+		<style type="text/css">
+			.result span {
+				display: none;
+			}
+			.result span.show {
+				display: block;
+			}
+			.active {
+				background-color: #ccc;
+			}
+			li:hover {
+				background-color: #ccc;
+			}
+			ul:focus .active {
+				background-color: transparent;
+			}
+		</style>
+	</head>
+	<body >
+		<div class="wrapper">
+			<div>
+				<div class="col" id="auto-complete-basic">
+					<h3>Filter Existing Markup Example</h3>
+					<input class="filter" type="text" name="search" value="" placeholder="Filter a state name ">
+					<ul class="result hide"><li >Alabama</li><li >Alaska</li><li >Arizona</li><li >Arkansas </li><li >California</li><li >Colorado</li><li >Connecticut</li><li >Delaware</li><li >Florida</li><li >Georgia</li><li >Hawaii</li><li >Idaho </li><li >Illinois Indiana</li><li >Iowa</li><li >Kansas</li><li >Kentucky</li><li >Louisiana</li><li >Maine</li><li >Maryland</li><li >Massachusetts</li><li >Michigan</li><li >Minnesota</li><li >Mississippi</li><li >Missouri</li><li >Montana Nebraska</li><li >Nevada</li><li >New Hampshire</li><li >New Jersey</li><li >New Mexico</li><li >New York</li><li >North Carolina</li><li >North Dakota</li><li >Ohio</li><li >Oklahoma</li><li >Oregon</li><li >Pennsylvania Rhode Island</li><li >South Carolina</li><li >South Dakota</li><li >Tennessee</li><li >Texas </li><li >Utah </li><li >Vermont</li><li >Virginia </li><li >Washington </li><li >West Virginia </li><li >Wisconsin </li><li >Wyoming</li></ul>
+					<!-- <span class="no-results"> no results</span> -->
+				</div>
+
+				<div class="col" id="auto-complete-ajax">
+					<h3>Filter with Ajax Example</h3>
+					<input class="filter" type="text" name="search" value="" placeholder="Find a fruit">
+					<ul class="result"></ul>
+				</div>
+			</div>
+			<!-- <div class="col" id="auto-filter">
+				<h3>Filter with click</h3>
+				<div>
+					<span>Funny</span>
+					<span>Dance</span>
+					<span>Eyebrow</span>
+				</div>
+				<ul class="result">
+				<li data-cat=" Reactions funny lips motorboat Pbbth pbp raspberry"><img src="http://www.reactiongifs.com/r/zBjtj.gif"></li><li data-cat=" Reactions boogie dance happy dance Jimmy Fallon moves party hard perfect loops"><img src="http://www.reactiongifs.com/r/jmmyf.gif"></li><li data-cat=" Reactions Andy Richter blink blinking disbelief mind blown WTF? WTH?"><img src="http://www.reactiongifs.com/r/whaaaa.gif"></li><li data-cat=" Reactions cover ears Dumb and Dumber Jim Carey lalalala not listening"><img src="http://www.reactiongifs.com/r/lalalala.gif"></li><li data-cat=" Reactions broke broken fix I can fix that"><img src="http://www.reactiongifs.com/r/icft.gif"></li><li data-cat=" Reactions excited frozen giddy here hopeful present"><img src="http://www.reactiongifs.com/r/excited-anna.gif"></li><li data-cat=" Reactions as if bitch please Bruce Willis disbelief doubtful eye roll eyeroll yeah right"><img src="http://www.reactiongifs.com/r/rfz0hP0.gif"></li><li data-cat=" Reactions brows eyebrows game of thrones happy perfect loops Peter Dinklage smile Tyrion yes"><img src="http://www.reactiongifs.com/r/ybrws.gif"></li><li data-cat=" Reactions bitch please bitch what? disturbed incredulous say what? WTF?"><img src="http://www.reactiongifs.com/r/TOzSZ3P.gif"></li><li data-cat=" Reactions homer late OMW run running The Simpsons"><img src="http://www.reactiongifs.com/r/omw.gif"></li></ul>
+			</div> -->
+		</div>
+		<script type="text/javascript" src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+		<script type="text/javascript" src="src/autocompleter.js"></script>
+		<script type="text/javascript">
+
+
+		/**
+		 * expample filter existing list
+		 */
+		 (function(){
+			var handle = document.querySelector('#auto-complete-basic'),
+				input = handle.querySelector('.filter'),
+				result = handle.querySelector('.result');
+
+			var filterMarkup = new AutoCompleter(handle, {renderWhileFilter: true});
+
+			function applyFilter (e) {
+				// improve? filterValue can't be called directly through addEventListener
+				filterMarkup.filterValue(e.target.value);
+				filterMarkup.bindUI(e.keyCode);
+				//have to meet condition
+				//filterMarkup.checkTyping(e.target.value, filterMarkup.filterValue);
+			}
+			input.addEventListener('focus', function () {
+				result.classList.remove('hide');
+			});
+			input.addEventListener('blur', function () {
+				result.classList.add('hide');
+			});
+			input.addEventListener('keyup',applyFilter);
+		})(AutoCompleter);
+
+
+		/**
+		 * expample filter with ajax list
+		 */
+		(function(){
+			var handle = document.querySelector('#auto-complete-ajax'),
+				input = handle.querySelector('.filter'),
+				resultContainer = handle.querySelector('.result'),
+				items = handle.querySelectorAll('li');
+
+			var filterMarkup = new AutoCompleter(handle);
+
+			filterMarkup.render = function (matchValue, results) {
+				var frag = document.createDocumentFragment();
+				if(results.length < 1 ) {
+					//display when there is no results
+					var li = document.createElement('li');
+					li.innerHTML = 'no "'+ matchValue + '" found';
+					frag.appendChild(li);
+				} else {
+					//append new markup
+					results.map(function(value) {
+						var li = document.createElement('li');
+						li.innerHTML = value;
+						frag.appendChild(li);
+					});
+				}
+				//remove existing markup
+				while(resultContainer.firstChild){
+					resultContainer.removeChild(resultContainer.firstChild);
+				}
+				resultContainer.appendChild(frag);
+			}
+
+			input.addEventListener('keyup',applyFilter);
+
+			function applyFilter (e) {
+				if(e.target.value.length < 1) {
+					filterMarkup.reset();
+					return;
+				}
+
+				filterMarkup.bindUI(e.keyCode,function(keyCode) {
+					if(keyCode === 13) {
+						console.log('do something');
+					};
+
+				});
+				filterMarkup.checkTyping(e.target.value, ajax);
+			}
+
+			function ajax (value) {
+				$.ajax({
+					url: 'public/json/states.json',
+					type:'GET',
+					success: function(data) {
+						filterMarkup.setData(data);
+						filterMarkup.filterValue(value);//vs. input.value
+					}
+				});
+			}
+
+		})(AutoCompleter);
+
+
+
+
+		/*public/json/fruits.json*/
+		</script>
+	</body>
+</html>

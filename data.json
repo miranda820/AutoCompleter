@@ -1,0 +1,500 @@
+/*{
+  "rss": {
+    "-xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "-version": "2.0",
+    "channel": {
+      "description": "Le tumblr aussi sexy que mignon qui réunit nos deux centres d intérêts préférés ! // The tumblr as cute as sexy that brings our two favourite things together : kittens and men !",
+      "title": "Des Hommes et des Chatons",
+      "generator": "Tumblr (3.0; @deshommesetdeschatons)",
+      "link": "http://deshommesetdeschatons.tumblr.com/",
+      "item": [
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://24.media.tumblr.com/5c5ce56cdf48c46a66f34e7dc437f248/tumblr_n4tb24IoZ61s77zr6o1_500.png" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/85509539872",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/85509539872",
+          "pubDate": "Mon, 12 May 2014 10:01:21 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://24.media.tumblr.com/a207d87d4e13e2738588f165b55c2ed6/tumblr_n4tay6t6US1s77zr6o1_500.png" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/85105263201",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/85105263201",
+          "pubDate": "Thu, 08 May 2014 10:01:21 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://37.media.tumblr.com/bda824f8aadd13fc5841790d0f613659/tumblr_n4szl7XLKr1s77zr6o1_500.png" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/85006078080",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/85006078080",
+          "pubDate": "Wed, 07 May 2014 10:01:19 +0200",
+          "dc:creator": "alicechaygneaud"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://24.media.tumblr.com/7108410978454995d55eaad36c26b80d/tumblr_n1akmzBztr1s77zr6o1_500.png" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/84943433642",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/84943433642",
+          "pubDate": "Tue, 06 May 2014 21:02:33 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://37.media.tumblr.com/d445dda422291548b47617a08b1a5566/tumblr_n2wktnyzS61s77zr6o1_500.png" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/84808497470",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/84808497470",
+          "pubDate": "Mon, 05 May 2014 10:01:11 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://37.media.tumblr.com/3e9af076fc4aef56bdb6a610ced2f3f2/tumblr_n1al5y8oIm1s77zr6o1_500.png" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/84503698491",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/84503698491",
+          "pubDate": "Fri, 02 May 2014 10:01:30 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://24.media.tumblr.com/35dfe17ccf38db66dfd71aa3ca824f25/tumblr_n1al5fP4gc1s77zr6o1_500.png" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/84403143802",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/84403143802",
+          "pubDate": "Thu, 01 May 2014 09:01:20 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://37.media.tumblr.com/46f6ec8597a44934c60c10dfa3ab9114/tumblr_n1akoem1mV1s77zr6o1_500.png" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/84304751513",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/84304751513",
+          "pubDate": "Wed, 30 Apr 2014 09:01:06 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://37.media.tumblr.com/7d2f12ee578753d09288ad2e236ea0cb/tumblr_n1aknyyi3W1s77zr6o1_500.png" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/84172602290",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/84172602290",
+          "pubDate": "Tue, 29 Apr 2014 02:01:51 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://24.media.tumblr.com/673711788f11318cf0d2015bcb37d947/tumblr_n17d4d8uIV1s77zr6o1_500.gif" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/84078745533",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/84078745533",
+          "pubDate": "Mon, 28 Apr 2014 03:01:47 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://24.media.tumblr.com/2ce053e7b359835bdafcc64684dbfd03/tumblr_n1akmlHkjv1s77zr6o1_500.png" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/83666215649",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/83666215649",
+          "pubDate": "Thu, 24 Apr 2014 02:02:05 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://24.media.tumblr.com/7e143ff3ec95c4048ba084fbd71aa75c/tumblr_n1akm5abh91s77zr6o1_500.png" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/83565705459",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/83565705459",
+          "pubDate": "Wed, 23 Apr 2014 02:02:02 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://24.media.tumblr.com/fdd2d8b6d31c10e95dacb4aa875c0291/tumblr_n17cwhsxRA1s77zr6o1_500.gif" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/83467083908",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/83467083908",
+          "pubDate": "Tue, 22 Apr 2014 03:01:33 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://24.media.tumblr.com/be0d7f49ba6124187c8b2b86d69be7af/tumblr_n17cphEGJX1s77zr6o1_500.gif" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/83360659650",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/83360659650",
+          "pubDate": "Mon, 21 Apr 2014 03:01:25 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://24.media.tumblr.com/b5d260fd25225d44d3daba661ff588d6/tumblr_n17chaMeQs1s77zr6o1_500.gif" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/83047679773",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/83047679773",
+          "pubDate": "Fri, 18 Apr 2014 03:01:27 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://37.media.tumblr.com/a7134c328e7abcd738164893dd41fc4f/tumblr_n17c9iiFUa1s77zr6o1_500.gif" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/82946472875",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/82946472875",
+          "pubDate": "Thu, 17 Apr 2014 03:01:43 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://37.media.tumblr.com/5f2326cb75cd17100743b81ee9c59070/tumblr_n17c91eypO1s77zr6o1_500.gif" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/82845512348",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/82845512348",
+          "pubDate": "Wed, 16 Apr 2014 03:01:44 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://37.media.tumblr.com/1bc9eed4035618db151f9ccc4d10a92c/tumblr_n17c8kglqw1s77zr6o1_500.gif" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/82742747256",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/82742747256",
+          "pubDate": "Tue, 15 Apr 2014 03:01:34 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://31.media.tumblr.com/27fbe5e15d2de9880bb97bb8823f9916/tumblr_n0zqn9EJRc1s77zr6o1_500.png" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/82623456418",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/82623456418",
+          "pubDate": "Mon, 14 Apr 2014 00:02:34 +0200",
+          "dc:creator": "marieevagatuingt"
+        },
+        {
+          "title": "Photo",
+          "description": {
+            "img": { "-src": "http://31.media.tumblr.com/fd2428f040d4eff05bdaf0ebf315ea6d/tumblr_n0zqmmNC3t1s77zr6o1_500.png" }
+          },
+          "link": "http://deshommesetdeschatons.tumblr.com/post/82325561958",
+          "guid": "http://deshommesetdeschatons.tumblr.com/post/82325561958",
+          "pubDate": "Fri, 11 Apr 2014 00:02:24 +0200",
+          "dc:creator": "marieevagatuingt"
+        }
+      ]
+    }
+  }
+}*/
+
+{
+   "@version": "2.0",
+   "channel": {
+      "title": "Reaction GIFs",
+      "link": [
+         {
+            "@href": "http://www.reactiongifs.com/feed/",
+            "@rel": "self"
+         },
+         "http://www.reactiongifs.com"
+      ],
+      "description": "Say it with a GIF!",
+      "lastBuildDate": "Mon, 12 May 2014 16:23:00 +0000",
+      "language": "en-US",
+      "updatePeriod": "hourly",
+      "updateFrequency": "1",
+      "generator": "http://wordpress.org/?v=3.9.1",
+      "item": [
+         {
+            "title": "PbbthPbbthPbbth…",
+            "link": "http://www.reactiongifs.com/pbbth/?utm_source=rss&utm_medium=rss&utm_campaign=pbbth",
+            "comments": [
+               "http://www.reactiongifs.com/pbbth/#comments",
+               "0"
+            ],
+            "pubDate": "Sun, 11 May 2014 06:40:56 +0000",
+            "creator": "admin",
+            "category": [
+               "Reactions",
+               "funny",
+               "lips",
+               "motorboat",
+               "Pbbth",
+               "pbp",
+               "raspberry"
+            ],
+            "guid": {
+               "@isPermaLink": "false",
+               "#text": "http://www.reactiongifs.com/?p=20412"
+            },
+            "description": "<p>©Reaction GIFs, 2014. &#124; Permalink Post tags: funny, lips, motorboat, Pbbth, pbp, raspberry<\/p>\n<p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/pbbth/\">PbbthPbbthPbbth&#8230;<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "encoded": "<div id=\"attachment_20389\" style=\"width: 360px\" class=\"wp-caption alignnone\"><a href=\"http://www.reactiongifs.com/r/zBjtj.gif\"><img class=\"wp-image-20389\" src=\"http://www.reactiongifs.com/r/zBjtj.gif\" alt=\"pthththt\" width=\"350\" height=\"263\" /><\/a><p class=\"wp-caption-text\">PbbthPbbthPbbth&#8230;<\/p><\/div>\n<div pw:image='' class='pw-widget pw-size-medium pw-horizontal' pw:url=\"http://www.reactiongifs.com/pbbth/\" pw:title=\"PbbthPbbthPbbth&#8230;\" pw:image='' >\n\t<a class='pw-button-reddit' ><\/a>\n\t<a class='pw-button-twitter' ><\/a>\n\t<a class='pw-button-facebook' ><\/a>\n\t<a class='pw-button-tumblr' ><\/a>\n\t<a class='pw-button-pinterest' ><\/a>\n\t<a class='pw-button-googleplus' ><\/a>\n\t<a class='pw-button-stumbleupon' ><\/a>\n\t<a class='pw-button-gmail' ><\/a>\n<\/div><p><small>©<a href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>, 2014. |\n<a href=\"http://www.reactiongifs.com/pbbth/\">Permalink<\/a><\/a> \n<br/>\nPost tags: <a href=\"http://www.reactiongifs.com/tag/funny/\" rel=\"tag\">funny<\/a>, <a href=\"http://www.reactiongifs.com/tag/lips/\" rel=\"tag\">lips<\/a>, <a href=\"http://www.reactiongifs.com/tag/motorboat/\" rel=\"tag\">motorboat<\/a>, <a href=\"http://www.reactiongifs.com/tag/pbbth/\" rel=\"tag\">Pbbth<\/a>, <a href=\"http://www.reactiongifs.com/tag/pbp/\" rel=\"tag\">pbp<\/a>, <a href=\"http://www.reactiongifs.com/tag/raspberry/\" rel=\"tag\">raspberry<\/a><br/>\n<\/small><\/p><p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/pbbth/\">PbbthPbbthPbbth&#8230;<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "commentRss": "http://www.reactiongifs.com/pbbth/feed/"
+         },
+         {
+            "title": "Happy Dance",
+            "link": "http://www.reactiongifs.com/jf-happy-dance/?utm_source=rss&utm_medium=rss&utm_campaign=jf-happy-dance",
+            "comments": [
+               "http://www.reactiongifs.com/jf-happy-dance/#comments",
+               "0"
+            ],
+            "pubDate": "Fri, 09 May 2014 15:35:31 +0000",
+            "creator": "admin",
+            "category": [
+               "Reactions",
+               "boogie",
+               "dance",
+               "happy dance",
+               "Jimmy Fallon",
+               "moves",
+               "party hard",
+               "perfect loops"
+            ],
+            "guid": {
+               "@isPermaLink": "false",
+               "#text": "http://www.reactiongifs.com/?p=20406"
+            },
+            "description": "<p>Friday happy dance. ©Reaction GIFs, 2014. &#124; Permalink Post tags: boogie, dance, happy dance, Jimmy Fallon, moves, party hard, perfect loops<\/p>\n<p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/jf-happy-dance/\">Happy Dance<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "encoded": "<p><a href=\"http://www.reactiongifs.com/r/jmmyf.gif\"><img class=\"alignnone wp-image-20407\" src=\"http://www.reactiongifs.com/r/jmmyf.gif\" alt=\"Jimmy Fallon Dance\" width=\"350\" height=\"356\" /><\/a><br />\nFriday happy dance.<\/p>\n<div pw:image='' class='pw-widget pw-size-medium pw-horizontal' pw:url=\"http://www.reactiongifs.com/jf-happy-dance/\" pw:title=\"Happy Dance\" pw:image='' >\n\t<a class='pw-button-reddit' ><\/a>\n\t<a class='pw-button-twitter' ><\/a>\n\t<a class='pw-button-facebook' ><\/a>\n\t<a class='pw-button-tumblr' ><\/a>\n\t<a class='pw-button-pinterest' ><\/a>\n\t<a class='pw-button-googleplus' ><\/a>\n\t<a class='pw-button-stumbleupon' ><\/a>\n\t<a class='pw-button-gmail' ><\/a>\n<\/div><p><small>©<a href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>, 2014. |\n<a href=\"http://www.reactiongifs.com/jf-happy-dance/\">Permalink<\/a><\/a> \n<br/>\nPost tags: <a href=\"http://www.reactiongifs.com/tag/boogie/\" rel=\"tag\">boogie<\/a>, <a href=\"http://www.reactiongifs.com/tag/dance/\" rel=\"tag\">dance<\/a>, <a href=\"http://www.reactiongifs.com/tag/happy-dance/\" rel=\"tag\">happy dance<\/a>, <a href=\"http://www.reactiongifs.com/tag/jimmy-fallon/\" rel=\"tag\">Jimmy Fallon<\/a>, <a href=\"http://www.reactiongifs.com/tag/moves/\" rel=\"tag\">moves<\/a>, <a href=\"http://www.reactiongifs.com/tag/party-hard/\" rel=\"tag\">party hard<\/a>, <a href=\"http://www.reactiongifs.com/tag/perfect-loops/\" rel=\"tag\">perfect loops<\/a><br/>\n<\/small><\/p><p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/jf-happy-dance/\">Happy Dance<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "commentRss": "http://www.reactiongifs.com/jf-happy-dance/feed/"
+         },
+         {
+            "title": "Disbelief",
+            "link": "http://www.reactiongifs.com/disbelief/?utm_source=rss&utm_medium=rss&utm_campaign=disbelief",
+            "comments": [
+               "http://www.reactiongifs.com/disbelief/#comments",
+               "0"
+            ],
+            "pubDate": "Fri, 09 May 2014 15:04:13 +0000",
+            "creator": "admin",
+            "category": [
+               "Reactions",
+               "Andy Richter",
+               "blink",
+               "blinking",
+               "disbelief",
+               "mind blown",
+               "WTF?",
+               "WTH?"
+            ],
+            "guid": {
+               "@isPermaLink": "false",
+               "#text": "http://www.reactiongifs.com/?p=20403"
+            },
+            "description": "<p>What the? ©Reaction GIFs, 2014. &#124; Permalink Post tags: Andy Richter, blink, blinking, disbelief, mind blown, WTF?, WTH?<\/p>\n<p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/disbelief/\">Disbelief<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "encoded": "<p><a href=\"http://www.reactiongifs.com/r/whaaaa.gif\"><img src=\"http://www.reactiongifs.com/r/whaaaa.gif\" alt=\"What the?\" width=\"290\" height=\"218\" class=\"alignnone size-full wp-image-20396\" /><\/a><br />\nWhat the?<\/p>\n<div pw:image='' class='pw-widget pw-size-medium pw-horizontal' pw:url=\"http://www.reactiongifs.com/disbelief/\" pw:title=\"Disbelief\" pw:image='' >\n\t<a class='pw-button-reddit' ><\/a>\n\t<a class='pw-button-twitter' ><\/a>\n\t<a class='pw-button-facebook' ><\/a>\n\t<a class='pw-button-tumblr' ><\/a>\n\t<a class='pw-button-pinterest' ><\/a>\n\t<a class='pw-button-googleplus' ><\/a>\n\t<a class='pw-button-stumbleupon' ><\/a>\n\t<a class='pw-button-gmail' ><\/a>\n<\/div><p><small>©<a href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>, 2014. |\n<a href=\"http://www.reactiongifs.com/disbelief/\">Permalink<\/a><\/a> \n<br/>\nPost tags: <a href=\"http://www.reactiongifs.com/tag/andy-richter/\" rel=\"tag\">Andy Richter<\/a>, <a href=\"http://www.reactiongifs.com/tag/blink/\" rel=\"tag\">blink<\/a>, <a href=\"http://www.reactiongifs.com/tag/blinking/\" rel=\"tag\">blinking<\/a>, <a href=\"http://www.reactiongifs.com/tag/disbelief/\" rel=\"tag\">disbelief<\/a>, <a href=\"http://www.reactiongifs.com/tag/mind-blown/\" rel=\"tag\">mind blown<\/a>, <a href=\"http://www.reactiongifs.com/tag/wtf/\" rel=\"tag\">WTF?<\/a>, <a href=\"http://www.reactiongifs.com/tag/wth/\" rel=\"tag\">WTH?<\/a><br/>\n<\/small><\/p><p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/disbelief/\">Disbelief<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "commentRss": "http://www.reactiongifs.com/disbelief/feed/"
+         },
+         {
+            "title": "Lalalala",
+            "link": "http://www.reactiongifs.com/lalalala/?utm_source=rss&utm_medium=rss&utm_campaign=lalalala",
+            "comments": [
+               "http://www.reactiongifs.com/lalalala/#comments",
+               "0"
+            ],
+            "pubDate": "Fri, 09 May 2014 15:00:46 +0000",
+            "creator": "admin",
+            "category": [
+               "Reactions",
+               "cover ears",
+               "Dumb and Dumber",
+               "Jim Carey",
+               "lalalala",
+               "not listening"
+            ],
+            "guid": {
+               "@isPermaLink": "false",
+               "#text": "http://www.reactiongifs.com/?p=20401"
+            },
+            "description": "<p>lalalala I can&#8217;t hear you. From Dumb and Dumber ©Reaction GIFs, 2014. &#124; Permalink Post tags: cover ears, Dumb and Dumber, Jim Carey, lalalala, not listening<\/p>\n<p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/lalalala/\">Lalalala<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "encoded": "<p><a href=\"http://www.reactiongifs.com/r/lalalala.gif\"><img class=\"alignnone size-full wp-image-20383\" src=\"http://www.reactiongifs.com/r/lalalala.gif\" alt=\"lalalala\" width=\"400\" height=\"200\" /><\/a><\/p>\n<p>lalalala I can&#8217;t hear you. From <a target=\"_blank\" href=\"http://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&#038;camp=1789&#038;creative=9325&#038;index=aps&#038;keywords=dumb%20and%20dumber&#038;linkCode=ur2&#038;tag=regi02-20&#038;linkId=JWME7SMLAUBAV2PE\">Dumb and Dumber<\/a><\/p>\n<div pw:image='' class='pw-widget pw-size-medium pw-horizontal' pw:url=\"http://www.reactiongifs.com/lalalala/\" pw:title=\"Lalalala\" pw:image='' >\n\t<a class='pw-button-reddit' ><\/a>\n\t<a class='pw-button-twitter' ><\/a>\n\t<a class='pw-button-facebook' ><\/a>\n\t<a class='pw-button-tumblr' ><\/a>\n\t<a class='pw-button-pinterest' ><\/a>\n\t<a class='pw-button-googleplus' ><\/a>\n\t<a class='pw-button-stumbleupon' ><\/a>\n\t<a class='pw-button-gmail' ><\/a>\n<\/div><p><small>©<a href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>, 2014. |\n<a href=\"http://www.reactiongifs.com/lalalala/\">Permalink<\/a><\/a> \n<br/>\nPost tags: <a href=\"http://www.reactiongifs.com/tag/cover-ears/\" rel=\"tag\">cover ears<\/a>, <a href=\"http://www.reactiongifs.com/tag/dumb-and-dumber/\" rel=\"tag\">Dumb and Dumber<\/a>, <a href=\"http://www.reactiongifs.com/tag/jim-carey-2/\" rel=\"tag\">Jim Carey<\/a>, <a href=\"http://www.reactiongifs.com/tag/lalalala/\" rel=\"tag\">lalalala<\/a>, <a href=\"http://www.reactiongifs.com/tag/not-listening/\" rel=\"tag\">not listening<\/a><br/>\n<\/small><\/p><p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/lalalala/\">Lalalala<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "commentRss": "http://www.reactiongifs.com/lalalala/feed/"
+         },
+         {
+            "title": "I Can Fix That",
+            "link": "http://www.reactiongifs.com/can-fix/?utm_source=rss&utm_medium=rss&utm_campaign=can-fix",
+            "comments": [
+               "http://www.reactiongifs.com/can-fix/#comments",
+               "0"
+            ],
+            "pubDate": "Fri, 09 May 2014 06:45:42 +0000",
+            "creator": "admin",
+            "category": [
+               "Reactions",
+               "broke",
+               "broken",
+               "fix",
+               "I can fix that"
+            ],
+            "guid": {
+               "@isPermaLink": "false",
+               "#text": "http://www.reactiongifs.com/?p=20399"
+            },
+            "description": "<p>I Can Fix That ©Reaction GIFs, 2014. &#124; Permalink Post tags: broke, broken, fix, I can fix that<\/p>\n<p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/can-fix/\">I Can Fix That<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "encoded": "<p><a href=\"http://www.reactiongifs.com/r/icft.gif\"><img class=\"alignnone wp-image-20385\" src=\"http://www.reactiongifs.com/r/icft.gif\" alt=\"I Can Fix That\" width=\"350\" height=\"292\" /><\/a><\/p>\n<p>I Can Fix That<\/p>\n<div pw:image='' class='pw-widget pw-size-medium pw-horizontal' pw:url=\"http://www.reactiongifs.com/can-fix/\" pw:title=\"I Can Fix That\" pw:image='' >\n\t<a class='pw-button-reddit' ><\/a>\n\t<a class='pw-button-twitter' ><\/a>\n\t<a class='pw-button-facebook' ><\/a>\n\t<a class='pw-button-tumblr' ><\/a>\n\t<a class='pw-button-pinterest' ><\/a>\n\t<a class='pw-button-googleplus' ><\/a>\n\t<a class='pw-button-stumbleupon' ><\/a>\n\t<a class='pw-button-gmail' ><\/a>\n<\/div><p><small>©<a href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>, 2014. |\n<a href=\"http://www.reactiongifs.com/can-fix/\">Permalink<\/a><\/a> \n<br/>\nPost tags: <a href=\"http://www.reactiongifs.com/tag/broke/\" rel=\"tag\">broke<\/a>, <a href=\"http://www.reactiongifs.com/tag/broken/\" rel=\"tag\">broken<\/a>, <a href=\"http://www.reactiongifs.com/tag/fix/\" rel=\"tag\">fix<\/a>, <a href=\"http://www.reactiongifs.com/tag/i-can-fix-that/\" rel=\"tag\">I can fix that<\/a><br/>\n<\/small><\/p><p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/can-fix/\">I Can Fix That<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "commentRss": "http://www.reactiongifs.com/can-fix/feed/"
+         },
+         {
+            "title": "Excited Anna",
+            "link": "http://www.reactiongifs.com/excited-anna/?utm_source=rss&utm_medium=rss&utm_campaign=excited-anna",
+            "comments": [
+               "http://www.reactiongifs.com/excited-anna/#comments",
+               "0"
+            ],
+            "pubDate": "Fri, 09 May 2014 06:43:29 +0000",
+            "creator": "admin",
+            "category": [
+               "Reactions",
+               "excited",
+               "frozen",
+               "giddy",
+               "here",
+               "hopeful",
+               "present"
+            ],
+            "guid": {
+               "@isPermaLink": "false",
+               "#text": "http://www.reactiongifs.com/?p=20397"
+            },
+            "description": "<p>©Reaction GIFs, 2014. &#124; Permalink Post tags: excited, frozen, giddy, here, hopeful, present<\/p>\n<p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/excited-anna/\">Excited Anna<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "encoded": "<p><a href=\"http://www.reactiongifs.com/r/excited-anna.gif\"><img class=\"alignnone size-full wp-image-20384\" src=\"http://www.reactiongifs.com/r/excited-anna.gif\" alt=\"Excited\" width=\"325\" height=\"398\" /><\/a><\/p>\n<div pw:image='' class='pw-widget pw-size-medium pw-horizontal' pw:url=\"http://www.reactiongifs.com/excited-anna/\" pw:title=\"Excited Anna\" pw:image='' >\n\t<a class='pw-button-reddit' ><\/a>\n\t<a class='pw-button-twitter' ><\/a>\n\t<a class='pw-button-facebook' ><\/a>\n\t<a class='pw-button-tumblr' ><\/a>\n\t<a class='pw-button-pinterest' ><\/a>\n\t<a class='pw-button-googleplus' ><\/a>\n\t<a class='pw-button-stumbleupon' ><\/a>\n\t<a class='pw-button-gmail' ><\/a>\n<\/div><p><small>©<a href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>, 2014. |\n<a href=\"http://www.reactiongifs.com/excited-anna/\">Permalink<\/a><\/a> \n<br/>\nPost tags: <a href=\"http://www.reactiongifs.com/tag/excited/\" rel=\"tag\">excited<\/a>, <a href=\"http://www.reactiongifs.com/tag/frozen/\" rel=\"tag\">frozen<\/a>, <a href=\"http://www.reactiongifs.com/tag/giddy/\" rel=\"tag\">giddy<\/a>, <a href=\"http://www.reactiongifs.com/tag/here/\" rel=\"tag\">here<\/a>, <a href=\"http://www.reactiongifs.com/tag/hopeful/\" rel=\"tag\">hopeful<\/a>, <a href=\"http://www.reactiongifs.com/tag/present/\" rel=\"tag\">present<\/a><br/>\n<\/small><\/p><p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/excited-anna/\">Excited Anna<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "commentRss": "http://www.reactiongifs.com/excited-anna/feed/"
+         },
+         {
+            "title": "If You Say So",
+            "link": "http://www.reactiongifs.com/say-7/?utm_source=rss&utm_medium=rss&utm_campaign=say-7",
+            "comments": [
+               "http://www.reactiongifs.com/say-7/#comments",
+               "0"
+            ],
+            "pubDate": "Thu, 08 May 2014 19:06:52 +0000",
+            "creator": "admin",
+            "category": [
+               "Reactions",
+               "as if",
+               "bitch please",
+               "Bruce Willis",
+               "disbelief",
+               "doubtful",
+               "eye roll",
+               "eyeroll",
+               "yeah right"
+            ],
+            "guid": {
+               "@isPermaLink": "false",
+               "#text": "http://www.reactiongifs.com/?p=20379"
+            },
+            "description": "<p>©Reaction GIFs, 2014. &#124; Permalink Post tags: as if, bitch please, Bruce Willis, disbelief, doubtful, eye roll, eyeroll, yeah right<\/p>\n<p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/say-7/\">If You Say So<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "encoded": "<p><a href=\"http://www.reactiongifs.com/r/rfz0hP0.gif\"><img class=\"alignnone wp-image-20380\" src=\"http://www.reactiongifs.com/r/rfz0hP0.gif\" alt=\"rfz0hP0\" width=\"400\" height=\"345\" /><\/a><\/p>\n<div pw:image='' class='pw-widget pw-size-medium pw-horizontal' pw:url=\"http://www.reactiongifs.com/say-7/\" pw:title=\"If You Say So\" pw:image='' >\n\t<a class='pw-button-reddit' ><\/a>\n\t<a class='pw-button-twitter' ><\/a>\n\t<a class='pw-button-facebook' ><\/a>\n\t<a class='pw-button-tumblr' ><\/a>\n\t<a class='pw-button-pinterest' ><\/a>\n\t<a class='pw-button-googleplus' ><\/a>\n\t<a class='pw-button-stumbleupon' ><\/a>\n\t<a class='pw-button-gmail' ><\/a>\n<\/div><p><small>©<a href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>, 2014. |\n<a href=\"http://www.reactiongifs.com/say-7/\">Permalink<\/a><\/a> \n<br/>\nPost tags: <a href=\"http://www.reactiongifs.com/tag/as-if/\" rel=\"tag\">as if<\/a>, <a href=\"http://www.reactiongifs.com/tag/bitch-please/\" rel=\"tag\">bitch please<\/a>, <a href=\"http://www.reactiongifs.com/tag/bruce-willis/\" rel=\"tag\">Bruce Willis<\/a>, <a href=\"http://www.reactiongifs.com/tag/disbelief/\" rel=\"tag\">disbelief<\/a>, <a href=\"http://www.reactiongifs.com/tag/doubtful/\" rel=\"tag\">doubtful<\/a>, <a href=\"http://www.reactiongifs.com/tag/eye-roll/\" rel=\"tag\">eye roll<\/a>, <a href=\"http://www.reactiongifs.com/tag/eyeroll/\" rel=\"tag\">eyeroll<\/a>, <a href=\"http://www.reactiongifs.com/tag/yeah-right/\" rel=\"tag\">yeah right<\/a><br/>\n<\/small><\/p><p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/say-7/\">If You Say So<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "commentRss": "http://www.reactiongifs.com/say-7/feed/"
+         },
+         {
+            "title": "Eyebrows",
+            "link": "http://www.reactiongifs.com/eyebrows-3/?utm_source=rss&utm_medium=rss&utm_campaign=eyebrows-3",
+            "comments": [
+               "http://www.reactiongifs.com/eyebrows-3/#comments",
+               "0"
+            ],
+            "pubDate": "Thu, 08 May 2014 16:39:57 +0000",
+            "creator": "admin",
+            "category": [
+               "Reactions",
+               "brows",
+               "eyebrows",
+               "game of thrones",
+               "happy",
+               "perfect loops",
+               "Peter Dinklage",
+               "smile",
+               "Tyrion",
+               "yes"
+            ],
+            "guid": {
+               "@isPermaLink": "false",
+               "#text": "http://www.reactiongifs.com/?p=20377"
+            },
+            "description": "<p>©Reaction GIFs, 2014. &#124; Permalink Post tags: brows, eyebrows, game of thrones, happy, perfect loops, Peter Dinklage, smile, Tyrion, yes<\/p>\n<p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/eyebrows-3/\">Eyebrows<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "encoded": "<p><a href=\"http://www.reactiongifs.com/r/ybrws.gif\"><img class=\"alignnone size-full wp-image-20371\" src=\"http://www.reactiongifs.com/r/ybrws.gif\" alt=\"Eyebrows\" width=\"292\" height=\"256\" /><\/a><\/p>\n<div pw:image='' class='pw-widget pw-size-medium pw-horizontal' pw:url=\"http://www.reactiongifs.com/eyebrows-3/\" pw:title=\"Eyebrows\" pw:image='' >\n\t<a class='pw-button-reddit' ><\/a>\n\t<a class='pw-button-twitter' ><\/a>\n\t<a class='pw-button-facebook' ><\/a>\n\t<a class='pw-button-tumblr' ><\/a>\n\t<a class='pw-button-pinterest' ><\/a>\n\t<a class='pw-button-googleplus' ><\/a>\n\t<a class='pw-button-stumbleupon' ><\/a>\n\t<a class='pw-button-gmail' ><\/a>\n<\/div><p><small>©<a href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>, 2014. |\n<a href=\"http://www.reactiongifs.com/eyebrows-3/\">Permalink<\/a><\/a> \n<br/>\nPost tags: <a href=\"http://www.reactiongifs.com/tag/brows/\" rel=\"tag\">brows<\/a>, <a href=\"http://www.reactiongifs.com/tag/eyebrows/\" rel=\"tag\">eyebrows<\/a>, <a href=\"http://www.reactiongifs.com/tag/game-of-thrones/\" rel=\"tag\">game of thrones<\/a>, <a href=\"http://www.reactiongifs.com/tag/happy/\" rel=\"tag\">happy<\/a>, <a href=\"http://www.reactiongifs.com/tag/perfect-loops/\" rel=\"tag\">perfect loops<\/a>, <a href=\"http://www.reactiongifs.com/tag/peter-dinklage/\" rel=\"tag\">Peter Dinklage<\/a>, <a href=\"http://www.reactiongifs.com/tag/smile/\" rel=\"tag\">smile<\/a>, <a href=\"http://www.reactiongifs.com/tag/tyrion/\" rel=\"tag\">Tyrion<\/a>, <a href=\"http://www.reactiongifs.com/tag/yes/\" rel=\"tag\">yes<\/a><br/>\n<\/small><\/p><p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/eyebrows-3/\">Eyebrows<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "commentRss": "http://www.reactiongifs.com/eyebrows-3/feed/"
+         },
+         {
+            "title": "Say What?",
+            "link": "http://www.reactiongifs.com/say-6/?utm_source=rss&utm_medium=rss&utm_campaign=say-6",
+            "comments": [
+               "http://www.reactiongifs.com/say-6/#comments",
+               "0"
+            ],
+            "pubDate": "Thu, 08 May 2014 16:31:52 +0000",
+            "creator": "admin",
+            "category": [
+               "Reactions",
+               "bitch please",
+               "bitch what?",
+               "disturbed",
+               "incredulous",
+               "say what?",
+               "WTF?"
+            ],
+            "guid": {
+               "@isPermaLink": "false",
+               "#text": "http://www.reactiongifs.com/?p=20375"
+            },
+            "description": "<p>©Reaction GIFs, 2014. &#124; Permalink Post tags: bitch please, bitch what?, disturbed, incredulous, say what?, WTF?<\/p>\n<p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/say-6/\">Say What?<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "encoded": "<p><a href=\"http://www.reactiongifs.com/r/TOzSZ3P.gif\"><img class=\"alignnone size-full wp-image-20370\" src=\"http://www.reactiongifs.com/r/TOzSZ3P.gif\" alt=\"TOzSZ3P\" width=\"500\" height=\"273\" /><\/a><\/p>\n<div pw:image='' class='pw-widget pw-size-medium pw-horizontal' pw:url=\"http://www.reactiongifs.com/say-6/\" pw:title=\"Say What?\" pw:image='' >\n\t<a class='pw-button-reddit' ><\/a>\n\t<a class='pw-button-twitter' ><\/a>\n\t<a class='pw-button-facebook' ><\/a>\n\t<a class='pw-button-tumblr' ><\/a>\n\t<a class='pw-button-pinterest' ><\/a>\n\t<a class='pw-button-googleplus' ><\/a>\n\t<a class='pw-button-stumbleupon' ><\/a>\n\t<a class='pw-button-gmail' ><\/a>\n<\/div><p><small>©<a href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>, 2014. |\n<a href=\"http://www.reactiongifs.com/say-6/\">Permalink<\/a><\/a> \n<br/>\nPost tags: <a href=\"http://www.reactiongifs.com/tag/bitch-please/\" rel=\"tag\">bitch please<\/a>, <a href=\"http://www.reactiongifs.com/tag/bitch-what/\" rel=\"tag\">bitch what?<\/a>, <a href=\"http://www.reactiongifs.com/tag/disturbed/\" rel=\"tag\">disturbed<\/a>, <a href=\"http://www.reactiongifs.com/tag/incredulous/\" rel=\"tag\">incredulous<\/a>, <a href=\"http://www.reactiongifs.com/tag/say-what/\" rel=\"tag\">say what?<\/a>, <a href=\"http://www.reactiongifs.com/tag/wtf/\" rel=\"tag\">WTF?<\/a><br/>\n<\/small><\/p><p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/say-6/\">Say What?<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "commentRss": "http://www.reactiongifs.com/say-6/feed/"
+         },
+         {
+            "title": "On My Way",
+            "link": "http://www.reactiongifs.com/way-2/?utm_source=rss&utm_medium=rss&utm_campaign=way-2",
+            "comments": [
+               "http://www.reactiongifs.com/way-2/#comments",
+               "0"
+            ],
+            "pubDate": "Thu, 08 May 2014 16:25:13 +0000",
+            "creator": "admin",
+            "category": [
+               "Reactions",
+               "homer",
+               "late",
+               "OMW",
+               "run",
+               "running",
+               "The Simpsons"
+            ],
+            "guid": {
+               "@isPermaLink": "false",
+               "#text": "http://www.reactiongifs.com/?p=20372"
+            },
+            "description": "<p>OMW! ©Reaction GIFs, 2014. &#124; Permalink Post tags: homer, late, OMW, run, running, The Simpsons<\/p>\n<p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/way-2/\">On My Way<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "encoded": "<p><a href=\"http://www.reactiongifs.com/r/omw.gif\"><img class=\"alignnone wp-image-20369\" src=\"http://www.reactiongifs.com/r/omw.gif\" alt=\"On My Way\" width=\"509\" height=\"385\" /><\/a><\/p>\n<p>OMW!<\/p>\n<div pw:image='' class='pw-widget pw-size-medium pw-horizontal' pw:url=\"http://www.reactiongifs.com/way-2/\" pw:title=\"On My Way\" pw:image='' >\n\t<a class='pw-button-reddit' ><\/a>\n\t<a class='pw-button-twitter' ><\/a>\n\t<a class='pw-button-facebook' ><\/a>\n\t<a class='pw-button-tumblr' ><\/a>\n\t<a class='pw-button-pinterest' ><\/a>\n\t<a class='pw-button-googleplus' ><\/a>\n\t<a class='pw-button-stumbleupon' ><\/a>\n\t<a class='pw-button-gmail' ><\/a>\n<\/div><p><small>©<a href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>, 2014. |\n<a href=\"http://www.reactiongifs.com/way-2/\">Permalink<\/a><\/a> \n<br/>\nPost tags: <a href=\"http://www.reactiongifs.com/tag/homer/\" rel=\"tag\">homer<\/a>, <a href=\"http://www.reactiongifs.com/tag/late/\" rel=\"tag\">late<\/a>, <a href=\"http://www.reactiongifs.com/tag/omw/\" rel=\"tag\">OMW<\/a>, <a href=\"http://www.reactiongifs.com/tag/run/\" rel=\"tag\">run<\/a>, <a href=\"http://www.reactiongifs.com/tag/running/\" rel=\"tag\">running<\/a>, <a href=\"http://www.reactiongifs.com/tag/the-simpsons/\" rel=\"tag\">The Simpsons<\/a><br/>\n<\/small><\/p><p>The post <a rel=\"nofollow\" href=\"http://www.reactiongifs.com/way-2/\">On My Way<\/a> appeared first on <a rel=\"nofollow\" href=\"http://www.reactiongifs.com\">Reaction GIFs<\/a>.<\/p>",
+            "commentRss": "http://www.reactiongifs.com/way-2/feed/"
+         }
+      ]
+   }
+}
